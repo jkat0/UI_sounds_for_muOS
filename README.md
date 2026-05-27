@@ -1,4 +1,4 @@
-# UIsounds
+# UI sounds for muOS
 Made for muOS.
 
 Instructions:
